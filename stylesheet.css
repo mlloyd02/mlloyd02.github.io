@@ -1,0 +1,98 @@
+p {
+    line-height: .25;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	line-height: .25;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+	line-height: .25;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+ul {
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+a {
+	color: #229cdc;
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #fffb00;
+}
+
+body {
+	background-color: black;
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-top: 50px
+}
+
+.header {
+	text-align: center;
+	padding-bottom: 130px;
+}
+
+.header h2{
+	text-align: left;
+}
+
+.info {
+	text-align: left;
+}
+
+.education {
+	padding-bottom: 20px;
+}
+
+.work-experience {
+	padding-bottom: 20px;
+}
+
+.tech {
+	padding-bottom: 20px;
+}
+
+.leadership-experience {
+	padding-bottom: 20px;
+}
+
+.container {
+	float: right;
+	padding: 0px;
+	margin: 0px;
+	position: relative;
+	left: 15px;
+}
+
+.mission {
+	float: left;
+	font-style: italic;
+}
+
+.uslink a{
+	margin-bottom: 0px;
+}
+
+.uslink p{
+	margin-bottom: 8px;
+}
+
+.uslink ul{
+	margin-top: 8px;
+}
